@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string-array name="spinner_items">
+
+        <item>C.C</item>
+        <item>Pasaporte</item>
+        <item>T.I</item>
+
+    </string-array>
+</resources>
